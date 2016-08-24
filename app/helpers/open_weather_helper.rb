@@ -1,0 +1,2 @@
+module OpenWeatherHelper
+end
